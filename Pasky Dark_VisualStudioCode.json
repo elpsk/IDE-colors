@@ -1,0 +1,22 @@
+// Inserire le impostazioni in questo file per sovrascrivere quelle predefinite
+{
+      "editor.fontSize": 16,
+      "explorer.confirmDelete": false,
+
+      "editor.fontFamily": "Anonymous Pro",
+
+      "editor.tokenColorCustomizations": {
+            "strings": "#90C378",
+            "keywords": "#C679DD",
+            "comments": "#3E984B",
+            "functions": "#61AEEF",
+            "numbers": "#D2945D",
+            "types": "#E5C17C",
+            "variables": "#DF6A73"
+      },
+
+      "workbench.colorCustomizations": {
+            "editor.background": "#272B33",
+            "editor.foreground": "#A6B2C0"
+      }
+}
